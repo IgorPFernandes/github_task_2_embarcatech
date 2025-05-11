@@ -1,0 +1,13 @@
+Igor Pereira Fernandes 
+"git clone https://gitlab.com/mizael.cortez/curso-branchs-ifrn-ead" 
+"git add texto.txt" 
+"git commit -m 'Adiciona o arquivo texto.txt com conte£do inicial'" 
+"git checkout -b feature-1" 
+"git add texto.txt" 
+"git commit -m 'Altera o conte£do de texto.txt na branch feature-1'" 
+"git checkout main" 
+"git add texto.txt" 
+"git commit -m 'Altera o conte£do de texto.txt na branch main'" 
+"git merge feature-1" 
+"git add texto.txt" 
+"git commit -m 'Resolve conflito e finaliza merge da feature-1 na main'" 
