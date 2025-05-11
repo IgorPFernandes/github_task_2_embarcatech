@@ -1,1 +1,2 @@
-"Altera‡Æo na branch main" 
+Alteração combinada na branch main e feature-1
+
